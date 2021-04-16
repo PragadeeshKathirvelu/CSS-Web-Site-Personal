@@ -1,0 +1,101 @@
+body
+{
+  margin: 0;
+  text-align: center;
+}
+
+h1
+{
+  margin-top: 0;
+  font-family: 'Niconne', cursive;
+  font-size: 45px;
+  color: #c70039;
+  line-height: 2;
+}
+
+h2
+{
+  font-size: 30px;
+  color: #dd2c00;
+}
+
+h3
+{
+  font-size: 25px;
+  color: #45046a;
+}
+
+p
+{
+  font-family: 'Rancho', cursive;
+  font-size: 40px;
+}
+
+.top-container
+{
+  background-color: #f39189;
+  position: relative;
+  padding: 100px;
+}
+
+.middle-container
+{
+  background-color: #78c4d4;
+  padding-bottom: 15px;
+}
+
+.profile-pic
+{
+  padding-top: 20px;
+}
+
+.Types
+{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.ps
+{
+  float: left;
+  width: 25%;
+  margin-right: 40px;
+}
+
+.table
+{
+  text-align: left;
+}
+
+.form-1
+{
+  width: 50%;
+  margin: 50px auto;
+}
+
+.uty
+{
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+
+.bottom-container
+{
+  padding: 30px;
+  background-color: #ffabe1;
+}
+
+.top-cloud
+{
+  position: absolute;
+  top: 75px;
+  right: 350px;
+}
+
+.bottom-cloud
+{
+  position: absolute;
+  left: 350px;
+}
